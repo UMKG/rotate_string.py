@@ -11,7 +11,7 @@ If the sequence is segmented, concatenate them by using concate.py or another to
 ### Circular permutation
 For example, if gene X is from a-th to b-th, to make gene X the first, the argument should be set as ``-n a-th``.
 
-``python rotate_string.py -i input_file -o output_file -n a-th``
+``python rotate_string.py -i input_file_name -o output_file_name -n a-th``
 
 ### Complimentary revese circular permutation
 If you want the complementary reversed sequence, add the argument ``-c``.
@@ -19,4 +19,4 @@ If you want the complementary reversed sequence, add the argument ``-c``.
 For example, if gene X is the a-th to b-th complementary strand, to make gene X the first, the argument should be set as
 ``-n b+1 -c``.
 
-``python rotate_string.py -i input_file -o output_file -n b+1 -c``
+``python rotate_string.py -i input_file_name -o output_file_name -n b+1 -c``
