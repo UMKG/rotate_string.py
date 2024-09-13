@@ -1,6 +1,6 @@
 # Rotate_string.py
 
-This script performs circular permutation of string in a fasta format.
+This script performs circular permutation of single DNA sequence in a fasta format.
 
 You can download the python script and run it from a terminal.
 
