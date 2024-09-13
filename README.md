@@ -1,4 +1,4 @@
-# Rotate_string.py (beta-version)
+# Rotate_string.py (beta version)
 
 This script performs circular permutation of single DNA sequence in a fasta format.
 
